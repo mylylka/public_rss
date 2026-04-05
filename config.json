@@ -1,11 +1,11 @@
 {
   "podcast": {
-    "title": "我的播客",
-    "description": "这是我的个人播客",
-    "author": "刘婧",
+    "title": "小学生麦小宝讲新闻",
+    "description": "麦小宝为你讲述每天3个值得关注的新闻故事，用孩子的视角看世界",
+    "author": "麦小宝",
     "email": "",
     "language": "zh-CN",
-    "category": "Technology",
+    "category": "News & Politics",
     "explicit": "no"
   },
   "server": {

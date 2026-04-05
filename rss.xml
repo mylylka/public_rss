@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[小学生麦小宝讲新闻]]></title>
+        <description><![CDATA[麦小宝为你讲述每天3个值得关注的新闻故事，用孩子的视角看世界]]></description>
+        <link>http://localhost:19001</link>
+        <image>
+            <url>http://localhost:19001/cover.jpg</url>
+            <title>小学生麦小宝讲新闻</title>
+            <link>http://localhost:19001</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 05 Apr 2026 01:42:42 GMT</lastBuildDate>
+        <atom:link href="http://localhost:19001/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
+        <copyright><![CDATA[2026 麦小宝]]></copyright>
+        <language><![CDATA[zh-CN]]></language>
+        <ttl>60</ttl>
+        <category><![CDATA[News & Politics]]></category>
+        <itunes:author>麦小宝</itunes:author>
+        <itunes:summary>麦小宝为你讲述每天3个值得关注的新闻故事，用孩子的视角看世界</itunes:summary>
+        <itunes:category text="News &amp; Politics"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://localhost:19001/cover.jpg"/>
+        <item>
+            <title><![CDATA[Episode 005]]></title>
+            <description><![CDATA[# Episode Description (小宇宙 / 喜马拉雅)
+
+## 标题
+Episode 005: 精彩内容
+
+## 简介（限200字）
+
+                                            ...
+
+## 关键词
+`播客` `技术` `分享` `访谈`
+
+---
+*字数：约44字，适合小宇宙/喜马拉雅平台*
+]]></description>
+            <link>http://localhost:19001/episodes/005/audio.mp3</link>
+            <guid isPermaLink="false">episode-005</guid>
+            <category><![CDATA[News & Politics]]></category>
+            <dc:creator><![CDATA[麦小宝]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
+            <enclosure url="http://localhost:19001/episodes/005/audio.mp3" length="3135370" type="audio/mpeg"/>
+            <itunes:duration>131</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary># Episode Description (小宇宙 / 喜马拉雅)
+
+## 标题
+Episode 005: 精彩内容
+
+## 简介（限200字）
+
+                                            ...
+
+## 关键词
+`播客` `技术` `分享` `访谈`
+
+---
+*字数：约44字，适合小宇宙/喜马拉雅平台*
+</itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[Episode 004]]></title>
+            <link>http://localhost:19001/episodes/004/audio.mp3</link>
+            <guid isPermaLink="false">episode-004</guid>
+            <category><![CDATA[News & Politics]]></category>
+            <dc:creator><![CDATA[麦小宝]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
+            <enclosure url="http://localhost:19001/episodes/004/audio.mp3" length="3135370" type="audio/mpeg"/>
+            <itunes:duration>131</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[Episode 003]]></title>
+            <link>http://localhost:19001/episodes/003/audio.mp3</link>
+            <guid isPermaLink="false">episode-003</guid>
+            <category><![CDATA[News & Politics]]></category>
+            <dc:creator><![CDATA[麦小宝]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
+            <enclosure url="http://localhost:19001/episodes/003/audio.mp3" length="3135370" type="audio/mpeg"/>
+            <itunes:duration>131</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary></itunes:summary>
+        </item>
+    </channel>
+</rss>
