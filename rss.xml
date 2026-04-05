@@ -9,9 +9,9 @@
             <link>http://localhost:19001</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 01:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 01:45:38 GMT</lastBuildDate>
         <atom:link href="http://localhost:19001/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 01:45:38 GMT</pubDate>
         <copyright><![CDATA[2026 麦小宝]]></copyright>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -42,7 +42,7 @@ Episode 005: 精彩内容
             <guid isPermaLink="false">episode-005</guid>
             <category><![CDATA[News & Politics]]></category>
             <dc:creator><![CDATA[麦小宝]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 01:45:38 GMT</pubDate>
             <enclosure url="http://localhost:19001/episodes/005/audio.mp3" length="3135370" type="audio/mpeg"/>
             <itunes:duration>131</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -61,30 +61,6 @@ Episode 005: 精彩内容
 ---
 *字数：约44字，适合小宇宙/喜马拉雅平台*
 </itunes:summary>
-        </item>
-        <item>
-            <title><![CDATA[Episode 004]]></title>
-            <link>http://localhost:19001/episodes/004/audio.mp3</link>
-            <guid isPermaLink="false">episode-004</guid>
-            <category><![CDATA[News & Politics]]></category>
-            <dc:creator><![CDATA[麦小宝]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
-            <enclosure url="http://localhost:19001/episodes/004/audio.mp3" length="3135370" type="audio/mpeg"/>
-            <itunes:duration>131</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:summary></itunes:summary>
-        </item>
-        <item>
-            <title><![CDATA[Episode 003]]></title>
-            <link>http://localhost:19001/episodes/003/audio.mp3</link>
-            <guid isPermaLink="false">episode-003</guid>
-            <category><![CDATA[News & Politics]]></category>
-            <dc:creator><![CDATA[麦小宝]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:42:42 GMT</pubDate>
-            <enclosure url="http://localhost:19001/episodes/003/audio.mp3" length="3135370" type="audio/mpeg"/>
-            <itunes:duration>131</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:summary></itunes:summary>
         </item>
     </channel>
 </rss>
