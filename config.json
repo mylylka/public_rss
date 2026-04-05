@@ -1,0 +1,20 @@
+{
+  "podcast": {
+    "title": "我的播客",
+    "description": "这是我的个人播客",
+    "author": "刘婧",
+    "email": "",
+    "language": "zh-CN",
+    "category": "Technology",
+    "explicit": "no"
+  },
+  "server": {
+    "port": 19001,
+    "host": "0.0.0.0"
+  },
+  "cover": {
+    "size": 1400,
+    "format": "jpg",
+    "quality": 85
+  }
+}
